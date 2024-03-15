@@ -1,0 +1,8 @@
+openai
+python-dotenv
+google-cloud-speech
+pymongo
+werkzeug
+flask
+flask-cors
+backend
