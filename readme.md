@@ -1,8 +1,17 @@
 Certainly! Below is a simple template for a README.md file for your Comedian Joke App. Feel free to customize it to fit your project's specifics better.
 markdown
 
-Copy code
-# Comedian Joke App The Comedian Joke App is a full-stack web application designed to allow users to listen to, upload, and rate jokes. Featuring a React frontend and a Flask backend with MongoDB, it offers a platform for comedy lovers to share and enjoy humor. ## Features - Listen to jokes uploaded by the community - Upload your own jokes in audio format - Rate jokes and see the most loved jokes - Analyze joke trends and popularity ## Getting Started These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. ### Prerequisites - Node.js - npm or yarn - Python 3 - MongoDB ### Installing 1. **Clone the repository** ```bash git clone https://yourrepository.com/comedian-joke-app.git cd comedian-joke-app
+
+# Comedian Joke App The Comedian Joke App is a full-stack web application designed to allow users to listen to, upload, and rate jokes. Featuring a React frontend and a Flask backend with MongoDB, it offers a platform for comedy lovers to share and enjoy humor. 
+
+## Features - Listen to jokes uploaded by the community - Upload your own jokes in audio format - Rate jokes and see the most loved jokes - Analyze joke trends and popularity 
+
+## Getting Started These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+
+### Prerequisites - Node.js - npm or yarn - Python 3 - MongoDB 
+
+### Installing 1. **Clone the repository** ```bash git clone https://yourrepository.com/comedian-joke-app.git cd comedian-joke-app
+
 * 		Set up the backend
 Navigate to the backend directory, install the required Python packages, and start the Flask server:
 bash
