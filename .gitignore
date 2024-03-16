@@ -1,0 +1,14 @@
+/node_modules
+/.pnp
+.pnp.js
+
+# backend Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+
+# dotenv environment variables file
+.env
+
+credentials.json
