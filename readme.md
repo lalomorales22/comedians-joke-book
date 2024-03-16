@@ -1,7 +1,3 @@
-Certainly! Below is a simple template for a README.md file for your Comedian Joke App. Feel free to customize it to fit your project's specifics better.
-markdown
-
-
 # Comedian Joke App
 
 ## The Comedian Joke App is a full-stack web application designed to allow users to listen to, upload, and rate jokes. Featuring a React frontend and a Flask backend with MongoDB, it offers a platform for comedy lovers to share and enjoy humor. 
